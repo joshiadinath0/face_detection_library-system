@@ -4,7 +4,7 @@ app.py:This is the main file to be executed all other processes work through the
 Face_dataset.py:To register your faces.
 Face_training.py:To train the faces.
 Face_recognition.py:To recognise the faces.
-makeqrcode.py:To generate qr code foor books.
+makeqrcode.py:To generate qr code for books.
 qrdetect.py:To scan qrcode from the books.
 add.py:To add books in database (sqlite).
 show.py:To display the records.
